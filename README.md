@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sharon Okuns
 ====================================================================================================================================
 
-Junior Software Engineer
+Product Manager 
 ------------------------
 
 👋 Hello World! I'm Sharon! I'm on a journey of discovery and I've set out to document my learning adventure right here on GitHub. 🚀 📖 Follow along as I share snippets, challenges, and victories in my coding diary. It's a minimalist space where I strive to capture the essence of my coding discoveries. 🚧 Work in progress, but isn't that what coding is all about? Join me on this exciting journey of turning ideas into reality! 💡
