@@ -8,7 +8,7 @@ Junior Software Engineer
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [sharonkuns@gmail.com](mailto:sharonkuns@gmail.com)
-* 🧠  I'm learning Javascript
+* 🧠  I'm learning Javascript, Python, Data and SQL
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Between lines of code, I might be secretly plotting world domination through my exceptional tea-making skills. Shhh, don't spill the (green tea) leaves! 🍵✨
 
