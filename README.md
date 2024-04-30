@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Product Manager 
 ------------------------
 
-👋 Hello World! I'm Sharon! I'm on a journey of discovery and I've set out to document my learning adventure right here on GitHub. 🚀 📖 Follow along as I share snippets, challenges, and victories in my coding diary. It's a minimalist space where I strive to capture the essence of my coding discoveries. 🚧 Work in progress, but isn't that what coding is all about? Join me on this exciting journey of turning ideas into reality! 💡
+👋 Hello World! I'm Sharon! 🚀 📖 Follow along as I share snippets, challenges, and victories in my coding diary. 🚧 Work in progress, but isn't that what coding is all about? Join me on this exciting journey of turning ideas into reality! 💡
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [sharonkuns@gmail.com](mailto:sharonkuns@gmail.com)
